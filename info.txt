@@ -1,3 +1,4 @@
 INFORMATIONS
 
 modif1
+modif2 sur vm
